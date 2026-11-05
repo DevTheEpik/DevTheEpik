@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on **EpikBlox**
+- 🌱 I’m learning a cool language (soon to be revealed!)
+- 👯 I’m not looking to collaborate on anything right now
+- 📫 Reach me on Discord: **dev_epic**
+- 😄 Pronouns: **he/him**
+- ⚡ Fun fact: EpikBlox used to be called **Bloxiverse**!
+
+## 🌐 Socials
+
+![Discord: dev_epic](https://img.shields.io/badge/Discord-dev__epic-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
 ## 💻 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -12,18 +23,3 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-<!--
-**DevTheEpik/DevTheEpik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

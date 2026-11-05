@@ -9,7 +9,8 @@
 
 ## 🌐 Socials
 
-![Discord: dev_epic](https://img.shields.io/badge/Discord-dev__epic-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1195151656023752745)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@EpikbloxOfficial)
 
 ## 💻 Tech Stack
 

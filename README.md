@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on **EpikBlox**
 - 🌱 I’m learning a cool language (soon to be revealed!)
-- 👯 I’m not looking to collaborate on anything right now
 - 📫 Reach me on Discord: **dev_epic**
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: EpikBlox used to be called **Bloxiverse**!
